@@ -10,7 +10,7 @@ on:
     branches: [ main ]
 
 jobs:
-  build:
+  build: 12.x and 14.x
 
     runs-on: ubuntu-latest
 
